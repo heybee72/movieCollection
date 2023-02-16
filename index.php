@@ -7,33 +7,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Movie Collection</title>
 
-    <style>
-        .container{
-            width: 50%;
-            margin: auto;
-/*          text-align: center;*/
-        }
-        #title{
-            color: dodgerblue;
-            text-align: center;
-        }
-        ul li{
-            list-style: none;
-        }
-        .movie{
-            padding: 50px;
-            margin: 20px;
-        }
-
-        .movie {
-          box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
-          transition: 0.3s;
-        }
-        .movie:hover {
-          box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
-        }
-
-    </style>
 </head>
 <body>
 
